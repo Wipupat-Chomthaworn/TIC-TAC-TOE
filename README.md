@@ -1,7 +1,7 @@
 # TIC-TAC-TOE
 
 <br>YOUTUBE สาธิต : https://www.youtube.com/watch?v=IDmwVAi3CDQ<br>
-กลุ่ม Tic tac toe Project Computer Programming
+กลุ่ม Tic tac toe Project Computer Programming\n
   สมาชิก
   นาย รวิภาส เพ็งรักษ์     รหัสนักศึกษา 64070092
   นาย วิภูภัทร์ ชมถาวร     รหัสนักศึกษา 64070103

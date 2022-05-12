@@ -1,6 +1,6 @@
 # TIC-TAC-TOE
 
-YOUTUBE สาธิต : https://www.youtube.com/watch?v=IDmwVAi3CDQ
+<br>YOUTUBE สาธิต : https://www.youtube.com/watch?v=IDmwVAi3CDQ<br>
 กลุ่ม Tic tac toe Project Computer Programming
   สมาชิก
   นาย รวิภาส เพ็งรักษ์     รหัสนักศึกษา 64070092

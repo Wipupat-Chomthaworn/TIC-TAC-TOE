@@ -7,3 +7,7 @@
   <img src="https://github.com/owenIT/TIC-TAC-TOE/blob/main/TIG%20TAG%20TOE%20fin.png" alt="poster" width="500" height="600">
 <br>
 
+<br>  สมาชิก<br>
+<br>  นาย รวิภาส เพ็งรักษ์     รหัสนักศึกษา 64070092 <br>
+<br>  นาย วิภูภัทร์ ชมถาวร     รหัสนักศึกษา 64070103 <br>
+<br>  นาย ธาดา ธีรวรกุล      รหัสนักศึกษา 64070159 <br>
